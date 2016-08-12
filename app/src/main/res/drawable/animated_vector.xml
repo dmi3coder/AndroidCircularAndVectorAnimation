@@ -1,0 +1,40 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/vector" >
+    <target
+        android:name="leaves"
+        android:animation="@anim/anim"
+        />
+
+    <target
+        android:animation="@anim/morph_red"
+        android:name="red"
+        />
+
+    <target
+        android:animation="@anim/morph_orange"
+        android:name="orange"
+        />
+
+    <target
+        android:animation="@anim/morph_yellow"
+        android:name="yellow"
+        />
+    <target
+        android:animation="@anim/morph_green"
+        android:name="green"
+        />
+    <target
+        android:animation="@anim/morph_blue"
+        android:name="blue"
+        />
+    <target
+        android:animation="@anim/morph_dark_blue"
+        android:name="dark_blue"
+        />
+    <target
+        android:animation="@anim/morph_viloet"
+        android:name="violet"
+        />
+
+
+</animated-vector>

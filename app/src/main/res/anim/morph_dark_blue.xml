@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:duration="3000"
+        android:propertyName="pathData"
+        android:valueFrom="M7.236,61.415 L26.882,51.971 C24.053,46.023,24.053,39.059,26.938,33.061
+L7.236,23.605 C4.412,29.44,2.934,35.949,2.934,42.508
+C2.934,49.069,4.412,55.585,7.289,61.468 L7.236,61.415 L7.236,61.415 Z"
+        android:valueTo="M34.412,69.843 L54.058,60.398 C51.229,54.45,51.229,47.486,54.113,41.488
+L34.412,32.033 C31.587,37.868,30.11,44.377,30.11,50.936
+C30.11,57.497,31.587,64.013,34.466,69.896 L34.412,69.843 L34.412,69.843 Z"
+        android:valueType="pathType"/>
+
+    <objectAnimator
+        android:propertyName="fillColor"
+        android:duration="3000"
+        android:valueFrom="#09529E"
+        android:valueTo="#FFFFFF" />
+</set>
